@@ -11,6 +11,9 @@ Bottle image data used in the image classification saved under the data tab.
 2. ResNet
 3. ResMLP
 
-Refer to presentations and Final Presentation for model conclusions.
+**Modeling Results**
+<img width="863" alt="Screen Shot 2022-12-07 at 9 05 06 PM" src="https://user-images.githubusercontent.com/89158606/206346170-a39468eb-ee11-4c22-a1c1-3bd163d5961a.png">
+
+Refer to presentations for more detail on process and modeling conclusions. 
 
 
